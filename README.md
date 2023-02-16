@@ -1,20 +1,20 @@
 # Nyquist Illuastrator
 
-### Features
+## Features
 
-- Developing an illustrator for the signal recovery that shows Nyquist rate.
-- read csv signal and see the sampled points highlighted on top of the signal.
-- Change the sampling rate via a slider
-- Adding noise to the signal
-- Reconstruct/recover the signal from the sampled points.
-- Web app has a Composer to generate basic signals to test and validate on the web.
-- One graph to display the sinusoidal to be generated and display the sum of the generated sinusoidals.
-- A combobox to select one of the contributing sinusoidals and remove it via a delete button.
-- After making a synthetic signal then moving it to the main illustrator graph to start the sampling/recovery process.
+#### - Developing an illustrator for the signal recovery that shows Nyquist rate.
+#### - read csv signal and see the sampled points highlighted on top of the signal.
+#### - Change the sampling rate via a slider
+#### - Adding noise to the signal
+#### - Reconstruct/recover the signal from the sampled points.
+#### - Web app has a Composer to generate basic signals to test and validate on the web.
+#### - One graph to display the sinusoidal to be generated and display the sum of the generated sinusoidals.
+#### - A combobox to select one of the contributing sinusoidals and remove it via a delete button.
+#### - After making a synthetic signal then moving it to the main illustrator graph to start the sampling/recovery process.
 
-### Preview
+## Preview
 
-#### Animation
+### Animation
 
 ![](https://github.com/Amr-said/DSP_Task1_-20-/blob/main/Animation/Animation.gif)
 
